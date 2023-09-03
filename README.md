@@ -170,4 +170,4 @@ Skillsync is open-source software distributed under the [MIT License](LICENSE). 
 
 ![Worker Page](frontend/ui_images/ui-9.jpg)
 
-#### For more UI images, go to [UI_Ismages](./frontend/ui_images/)
+#### For more UI images, go to [UI_Images](./frontend/ui_images/)
