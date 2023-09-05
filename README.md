@@ -45,6 +45,7 @@ Skillsync is a user-friendly platform designed to connect skilled individuals wi
 6. [Usage](#usage)
 7. [Contributing](#contribution)
 8. [License](#license)
+9. [Sample Screenshots](#sample-screenshots)
 
 ## Getting Started
 
@@ -152,7 +153,7 @@ We welcome contributions to Skillsync! Whether it's bug fixes, feature enhanceme
 
 Skillsync is open-source software distributed under the [MIT License](LICENSE). You are free to use, modify, and share this software as per the license terms.
 
-### Sample Ui image
+### Sample Screenshots
 
 - Log in Page
 
@@ -170,4 +171,4 @@ Skillsync is open-source software distributed under the [MIT License](LICENSE). 
 
 ![Worker Page](frontend/ui_images/ui-9.jpg)
 
-#### For more UI images, go to [UI_Images](./frontend/ui_images/)
+#### For more screenshot images, go to [UI_Images](./frontend/ui_images/)
