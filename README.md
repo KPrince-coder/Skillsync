@@ -43,7 +43,7 @@ Skillsync is a user-friendly platform designed to connect skilled individuals wi
 4. [Project Structure](#project-structure)
 5. [Installation](#installation)
 6. [Usage](#usage)
-7. [Contributing](#contribution)
+7. [Contribution](#contribution)
 8. [License](#license)
 9. [Sample Screenshots](#sample-screenshots)
 
